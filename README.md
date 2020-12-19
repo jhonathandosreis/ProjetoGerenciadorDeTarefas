@@ -1,4 +1,9 @@
-# GerenciadorDeTarefas
+<h1 align="center">
+  Gerenciador de Tarefas
+</h1>
+<h2 align="center">
+  Sistema Gerenciador de Tarefas
+</h2>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
 
